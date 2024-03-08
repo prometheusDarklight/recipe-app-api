@@ -51,7 +51,8 @@ coverage.xml
 .pytest_cache/
 cover/
 .flake8
-tests/
+.tests/
+tests
 # Translations
 *.mo
 *.pot
